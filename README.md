@@ -81,7 +81,7 @@ Estrutura modular e organizada entre páginas e componentes.
 ## 🎬 Vídeo de Demonstração
 
 <video width="100%" controls>
-  <source src="./dist/video-DjcxZvhK.mp4" type="video/mp4">
+  <source src=".map/dist/video-DjcxZvhK.mp4" type="video/mp4">
   Seu navegador não suporta a tag de vídeo.
 </video>
 
