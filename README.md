@@ -77,7 +77,9 @@ Design responsivo com TailwindCSS.
 
 Estrutura modular e organizada entre páginas e componentes.
 
-## 📸 Pai De Todos @MH-Da-Lorena
+<div align="center">
+  <h2 style="font-size: 32px;">📸 Pai De Todos @MH-Da-Lorena</h2>
+</div>
 <div align="center">
   <img src="https://media.tenor.com/JIlyiCzfyuQAAAAM/scorpy-fortnite-scorpy.gif" width="800" alt="Scorpy Fortnite">
 </div>
