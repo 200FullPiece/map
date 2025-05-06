@@ -84,10 +84,10 @@ Estrutura modular e organizada entre páginas e componentes.
   <img src="https://media.tenor.com/JIlyiCzfyuQAAAAM/scorpy-fortnite-scorpy.gif" width="800" alt="Scorpy Fortnite">
 </div>
 
+Desenvolvido com 💙 por MH-Ferreira e Frances(Frances abaixo)
+
+<div align="center">
+  <img src="https://media1.tenor.com/m/evtiFT4dFAEAAAAC/salute-tomer-kapon.gif" width="800" alt="Scorpy Fortnite">
+</div>
 
 
-
-
-
-
-Desenvolvido com 💙 por MH-Ferreira e Fran
