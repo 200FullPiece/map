@@ -77,8 +77,8 @@ Design responsivo com TailwindCSS.
 
 Estrutura modular e organizada entre páginas e componentes.
 
-## 📸 Preview
-![Amassado](https://tenor.com/pt-BR/view/scorpy-fortnite-scorpy-gif-23718636)
+## 📸 Pai de Todos @Ttzin007
+![Amassado](https://media1.tenor.com/m/JIlyiCzfyuQAAAAd/scorpy-fortnite-scorpy.gif)
 
 
 
