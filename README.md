@@ -77,13 +77,10 @@ Design responsivo com TailwindCSS.
 
 Estrutura modular e organizada entre páginas e componentes.
 
-📸 Preview
-## 🎬 Vídeo de Demonstração
+## 📸 Preview
+![Demonstração do App](https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fview%2Fprofessional-fortnite-gameplay-full-box-gif-12495733267029701944&psig=AOvVaw29xySsRtvaoVJoIwpf1N0v&ust=1746622074957000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCPCeyrzwjo0DFQAAAAAdAAAAABAZ)
 
-<video width="100%" controls>
-  <source src=".map/dist/video-DjcxZvhK.mp4" type="video/mp4">
-  Seu navegador não suporta a tag de vídeo.
-</video>
+
 
 
 
