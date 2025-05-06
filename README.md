@@ -1,12 +1,66 @@
-# React + Vite
+# 🌩️ Diário de Tempestade
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Projeto desenvolvido com **React**, **Vite**, **TailwindCSS** e **Axios**, que consome a **API do Fortnite** para exibir informações relevantes do jogo. Ideal para quem deseja acompanhar estatísticas, itens e novidades do Fortnite em uma interface moderna e responsiva.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🧰 Tecnologias Utilizadas
 
-## Expanding the ESLint configuration
+- ⚛️ **React** – Biblioteca JavaScript para construção de interfaces
+- ⚡ **Vite** – Empacotador ultrarrápido para projetos web modernos
+- 🎨 **TailwindCSS** – Framework de utilitários CSS
+- 🌐 **Axios** – Cliente HTTP para consumo de APIs
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 📁 Estrutura do Projeto
+<br>
+Diario-de-Tempestade/
+│
+├── dist/ # Arquivos gerados após build
+├── assets/ # Recursos estáticos (imagens, fontes etc.)
+├── index.html # HTML principal
+├── src/
+│ ├── Components/ # Componentes reutilizáveis da UI
+│ ├── Pages/ # Páginas principais do app
+│ ├── assets/ # Assets específicos do React
+│ ├── App.jsx # Componente raiz
+│ ├── index.css # Estilização global
+│ └── main.jsx # Ponto de entrada da aplicação
+│
+├── README.md # Documentação do projeto
+├── package.json # Dependências e scripts do projeto
+├── package-lock.json # Versões travadas das dependências
+├── postcss.config.js # Configuração do PostCSS
+├── tailwind.config.js # Configuração do TailwindCSS
+└── vite.config.js # Configuração do Vite
+<br>
+
+
+---
+
+## 🚀 Como Executar o Projeto
+
+1. **Clone o repositório:**
+   ```bash
+   git clone https://github.com/200FullPiece/map.git
+   cd diario-de-tempestade
+
+🔗 API Utilizada
+Este projeto consome dados da Fortnite API, incluindo informações como:
+
+Itens da loja
+
+Novidades do jogo
+
+💡 Observações
+O projeto tem fins educacionais e foi feito para praticar o consumo de APIs REST.
+
+Design responsivo com TailwindCSS.
+
+Estrutura modular e organizada entre páginas e componentes.
+
+📸 Preview
+(Adicione aqui uma imagem ou gif demonstrando o app em funcionamento)
+
+Desenvolvido com 💙 por MH-Ferreira e Fran
