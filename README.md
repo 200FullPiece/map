@@ -78,7 +78,7 @@ Design responsivo com TailwindCSS.
 Estrutura modular e organizada entre páginas e componentes.
 
 ## 📸 Preview
-![Demonstração do App](https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fview%2Fprofessional-fortnite-gameplay-full-box-gif-12495733267029701944&psig=AOvVaw29xySsRtvaoVJoIwpf1N0v&ust=1746622074957000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCPCeyrzwjo0DFQAAAAAdAAAAABAZ)
+![Amassado](https://tenor.com/pt-BR/view/scorpy-fortnite-scorpy-gif-23718636)
 
 
 
