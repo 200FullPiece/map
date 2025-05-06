@@ -78,7 +78,7 @@ Design responsivo com TailwindCSS.
 Estrutura modular e organizada entre páginas e componentes.
 
 📸 Preview
-![Descrição do GIF](dist/assets/video-DjcxZvhK.mp4)
+![Descrição do GIF](map/dist/assets/video-DjcxZvhK.mp4)
 
 
 Desenvolvido com 💙 por MH-Ferreira e Fran
