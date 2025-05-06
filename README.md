@@ -79,7 +79,9 @@ Estrutura modular e organizada entre páginas e componentes.
 
 ## 📸 Preview
 
-![Scorpy Fortnite](https://media.tenor.com/JIlyiCzfyuQAAAAM/scorpy-fortnite-scorpy.gif)
+<img src="https://media.tenor.com/JIlyiCzfyuQAAAAM/scorpy-fortnite-scorpy.gif" width="600" alt="Scorpy Fortnite">
+
+
 
 
 
