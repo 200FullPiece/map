@@ -78,7 +78,13 @@ Design responsivo com TailwindCSS.
 Estrutura modular e organizada entre páginas e componentes.
 
 📸 Preview
-![Descrição do GIF](map/dist/assets/video-DjcxZvhK.mp4)
+## 🎬 Vídeo de Demonstração
+
+<video width="100%" controls>
+  <source src="./dist/video-DjcxZvhK.mp4" type="video/mp4">
+  Seu navegador não suporta a tag de vídeo.
+</video>
+
 
 
 Desenvolvido com 💙 por MH-Ferreira e Fran
