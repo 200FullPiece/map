@@ -71,13 +71,14 @@ Itens da loja
 Novidades do jogo
 
 💡 Observações
-O projeto tem fins educacionais e foi feito para praticar o consumo de APIs REST.
+O projeto tem fins educacionais e foi feito para praticar o consumo de APIs REST e estudos e afins...
 
 Design responsivo com TailwindCSS.
 
 Estrutura modular e organizada entre páginas e componentes.
 
 📸 Preview
-(Adicione aqui uma imagem ou gif demonstrando o app em funcionamento)
+![Descrição do GIF](dist/assets/video-DjcxZvhK.mp4)
+
 
 Desenvolvido com 💙 por MH-Ferreira e Fran
