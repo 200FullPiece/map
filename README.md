@@ -16,23 +16,40 @@ Projeto desenvolvido com **React**, **Vite**, **TailwindCSS** e **Axios**, que c
 ## 📁 Estrutura do Projeto
 <br>
 Diario-de-Tempestade/
+<br>
 │
+<br>
 ├── dist/ # Arquivos gerados após build
-├── assets/ # Recursos estáticos (imagens, fontes etc.)
+<br>
+├── assets/ # Recursos estáticos (imagens, fontes etc.)<br>
+<br>
 ├── index.html # HTML principal
+<br>
 ├── src/
+<br>
 │ ├── Components/ # Componentes reutilizáveis da UI
+<br>
 │ ├── Pages/ # Páginas principais do app
+<br>
 │ ├── assets/ # Assets específicos do React
+<br>
 │ ├── App.jsx # Componente raiz
+<br>
 │ ├── index.css # Estilização global
+<br>
 │ └── main.jsx # Ponto de entrada da aplicação
+<br>
 │
 ├── README.md # Documentação do projeto
+<br>
 ├── package.json # Dependências e scripts do projeto
+<br>
 ├── package-lock.json # Versões travadas das dependências
+<br>
 ├── postcss.config.js # Configuração do PostCSS
+<br>
 ├── tailwind.config.js # Configuração do TailwindCSS
+<br>
 └── vite.config.js # Configuração do Vite
 <br>
 
